@@ -1,1 +1,3 @@
-# github-issue-insights-dashboard-303394
+# Project Repository
+
+This is the initial README file for the project.
